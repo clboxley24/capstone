@@ -7,8 +7,17 @@ Installations:
 - import re
 - import seaborn as sns
 - import matplotlib.pyplot as plt
-- import folium
+- import math
 - import json
+- from sklearn.model_selection import train_test_split
+- from sklearn.linear_model import LogisticRegression
+- from sklearn.metrics import confusion_matrix
+- from sklearn import metrics
+- from sklearn import preprocessing
+- import seaborn as sn
+- import matplotlib.pyplot as plt
+- from sklearn.metrics import classification_report
+
 
 ## Project Motivation
 These files are used to make a blog post intended to share questions and insights from the dataset with a non-technical audience. The goal of this project was to share visualizations as to what Starbucks offers are most popular and who is most likely to view them Another goal was to create two models to predict which customers will view their offers and which will ignore them
