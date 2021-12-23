@@ -23,12 +23,12 @@ Installations:
 These files are used to make a blog post intended to share questions and insights from the dataset with a non-technical audience. The goal of this project was to share visualizations as to what Starbucks offers are most popular and who is most likely to view them Another goal was to create two models to predict which customers will view their offers and which will ignore them
 
 ## File Descriptions
-A json file with portfolio data.
-A json file with profile data.
-A zipped json file with transcript data
-A python file that cleans and merges the data, creates three visualizations, creates two prediction models, and evaluates the models by outputting classification reports.
-The three visualizations output from the python script as png files.
-Two classification reports as png files.
+- A json file with portfolio data.
+- A json file with profile data.
+- A zipped json file with transcript data
+- A python file that cleans and merges the data, creates three visualizations, creates two prediction models, and evaluates the models by outputting classification reports.
+- The three visualizations output from the python script as png files.
+- Six classification reports as png files.
 
 ## How to Interact
 Run the python file to generate visualizations and models. 
